@@ -5,3 +5,4 @@ __pycache__/
 github.txt
 output/
 *.wav
+.claude/
